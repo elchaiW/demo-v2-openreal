@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://ai-asset-hub.preview.emergentagent.com/$1"
+    }
+  ]
+}
