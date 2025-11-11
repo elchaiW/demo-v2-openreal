@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://dual-compute.preview.emergentagent.com/$1"
+      "destination": "https://compute-hybrid.preview.emergentagent.com/$1"
     }
   ]
 }
