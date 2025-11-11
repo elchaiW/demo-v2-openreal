@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://ai-asset-hub.preview.emergentagent.com/$1"
+      "destination": "https://dual-compute.preview.emergentagent.com/$1"
     }
   ]
 }
